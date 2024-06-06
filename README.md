@@ -15,13 +15,13 @@ Features :-
 
 
 Technologies Used :-
-HTML
-CSS
-JavaScript
-XAMPP (Apache, MySQL, PHP, Perl)
-Bootstrap (for responsive design)
-PHP (for backend processing)
-My Sql
+HTML,
+CSS,
+JavaScript,
+XAMPP (Apache, MySQL, PHP, Perl),
+Bootstrap (for responsive design),
+PHP (for backend processing),
+My Sql,
 
 Prerequisites :-
 Before you begin, ensure you have met the following requirements:
