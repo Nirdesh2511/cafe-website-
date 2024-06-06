@@ -34,7 +34,7 @@ Installation :-
 To install and set up the project, follow these steps:
 
  1 Clone the repository:
-     git clone https://github.com/your-username/cafe-website.git
+     git clone https://github.com/Nirdesh2511/cafe-website.git
 
  2 Move the project to the XAMPP directory:
      Copy the project folder to the htdocs directory inside your XAMPP installation folder.
